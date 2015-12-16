@@ -10,7 +10,6 @@ Rozdział 1
 Przepisy ogólne
 Art. 1. Trybunał Konstytucyjny, zwany dalej „Trybunałem”, jest organem władzy sądowniczej powołanym w celu
 wykonywania kompetencji określonych w Konstytucji i ustawach.
-Art. 2. Siedzibą Trybunału jest m.st. Warszawa.
 Art. 3. 1. Trybunał orzeka w sprawach zgodności:
 1)
 
@@ -102,8 +101,8 @@ obradom.
 3. O terminie i porządku posiedzenia Zgromadzenia Ogólnego Prezes Trybunału zawiadamia sędziów Trybunału najpóźniej 7 dni przed dniem posiedzenia.
 4. W szczególnie uzasadnionych przypadkach Prezes Trybunału może odstąpić od dochowania terminu, o którym
 mowa w ust. 3.
-Art. 10. 1. Zgromadzenie Ogólne podejmuje uchwały zwykłą większością głosów, w obecności co najmniej
-2/3 ogólnej liczby sędziów Trybunału, w tym Prezesa lub Wiceprezesa Trybunału, chyba że ustawa przewiduje inną większość.
+Art. 10. 1. Zgromadzenie Ogólne podejmuje uchwały większością 2/3 głosów, w obecności co najmniej
+13 sędziów Trybunału, w tym Prezesa lub Wiceprezesa Trybunału, chyba że ustawa stanowi inaczej.
 2. Głosowanie jest jawne, o ile żaden z sędziów Trybunału nie zażąda wyłączenia jawności. Głosowanie z wyłączeniem jawności przeprowadza się w sprawach, o których mowa w art. 8 pkt 2–5.
 Art. 11. 1. Prezes Trybunału corocznie zwołuje publiczne posiedzenie Zgromadzenia Ogólnego, podczas którego są
 omawiane istotne problemy wynikające z działalności i orzecznictwa Trybunału, przedstawione w informacji, o której
@@ -115,6 +114,11 @@ Art. 12. 1. Prezesa Trybunału powołuje Prezydent Rzeczypospolitej Polskiej spo
 2. Kandydatów na stanowisko Prezesa Trybunału wybiera Zgromadzenie Ogólne, nie później niż 3 miesiące przed
 dniem upływu kadencji Prezesa Trybunału, spośród sędziów Trybunału, którzy w głosowaniu uzyskali kolejno największą
 liczbę głosów. W razie opróżnienia stanowiska Prezesa Trybunału, wyboru kandydatów dokonuje się w terminie 30 dni.
+2a. Zgłoszenie kandydata może nastąpić przez co najmniej 3 członków Zgromadzenia.
+Członek Zgromadzenia może zgłosić tylko jednego kandydata.
+2b. Kandydatów wpisuje się na kartę głosowania w kolejności alfabetycznej. Głosowanie
+odbywa się po upływie 3 dni od zgłoszenia kandydatów. Członek Zgromadzenia może
+głosować tylko na jednego kandydata.
 3. Obradom, które dotyczą wyboru kandydatów na stanowisko Prezesa Trybunału, przewodniczy najstarszy wiekiem
 sędzia Trybunału.
 4. Uchwałę o wyborze kandydatów na stanowisko Prezesa Trybunału przekazuje się niezwłocznie Prezydentowi
@@ -143,11 +147,10 @@ Trybunału, oraz inne sprawy wskazane w ustawie określa regulamin Trybunału.
 2. Regulamin Trybunału podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 Rozdział 3
 Sędziowie Trybunału
-Art. 16. Sędzia Trybunału w sprawowaniu swojego urzędu jest niezawisły i podlega tylko Konstytucji.
 Art. 17. 1. W skład Trybunału wchodzi piętnastu sędziów.
 
 2. Sędziów Trybunału wybiera indywidualnie, na dziewięcioletnie kadencje, Sejm bezwzględną większością głosów,
-w obecności co najmniej połowy ustawowej liczby posłów. Ponowny wybór do Trybunału jest niedopuszczalny.
+w obecności co najmniej połowy ustawowej liczby posłów.
 Art. 18. Sędzią Trybunału może być wybrana osoba, która wyróżnia się wiedzą prawniczą oraz:
 1)
 
@@ -157,17 +160,7 @@ posiada kwalifikacje wymagane do zajmowania stanowiska sędziego Sądu Najwyższ
 
 w dniu wyboru ma ukończone 40 lat i nie ukończyła 67 lat.
 
-Art. 19. 1. Prawo zgłaszania kandydata na sędziego Trybunału przysługuje Prezydium Sejmu oraz grupie co najmniej
-50 posłów.
-2. Wniosek w sprawie zgłoszenia kandydata na sędziego Trybunału składa się do Marszałka Sejmu nie później niż
-3 miesiące przed dniem upływu kadencji sędziego Trybunału.
-3. W przypadku wygaśnięcia mandatu sędziego Trybunału przed upływem kadencji, termin na złożenie wniosku,
-o którym mowa w ust. 2, wynosi 21 dni.
-4. Organ właściwy na podstawie regulaminu Sejmu wyraża opinię w sprawie wniosku, o którym mowa w ust. 2.
-5. Szczegółowe wymogi dotyczące wniosku oraz tryb postępowania z wnioskiem określa regulamin Sejmu.
-Art. 20. Jeżeli głosowanie nie zostało zakończone wyborem sędziego Trybunału, termin na złożenie nowego wniosku
-w sprawie zgłoszenia kandydata na sędziego Trybunału wynosi 14 dni od dnia głosowania.
-Art. 21. 1. Osoba wybrana na stanowisko sędziego Trybunału składa wobec Prezydenta Rzeczypospolitej Polskiej
+Art. 21. 1. Osoba wybrana na stanowisko sędziego Trybunału składa wobec Marszałka Sejmu
 ślubowanie następującej treści:
 „Uroczyście ślubuję, że pełniąc powierzone mi obowiązki sędziego Trybunału Konstytucyjnego będę wiernie
 służyć Narodowi i stać na straży Konstytucji Rzeczypospolitej Polskiej, czyniąc to bezstronnie, według mego
@@ -176,7 +169,7 @@ sumienia i z najwyższą starannością, oraz strzegąc godności sprawowanego u
 2. Odmowa złożenia ślubowania jest równoznaczna ze zrzeczeniem się stanowiska sędziego Trybunału.
 Art. 22. Sędzia Trybunału jest upoważniony do dostępu do informacji niejawnych związanych z rozpoznawaną przez
 Trybunał sprawą.
-Art. 23. 1. Sędzia Trybunału nie może należeć do partii politycznej, związku zawodowego ani prowadzić działalności publicznej niedającej się pogodzić z zasadami niezależności sądów i niezawisłości sędziów.
+Art. 23. 
 2. Sędzia Trybunału nie może podejmować dodatkowego zatrudnienia, z wyjątkiem zatrudnienia w charakterze pracownika naukowo-dydaktycznego, dydaktycznego lub naukowego u jednego pracodawcy, w łącznym wymiarze nieprze-
 
 2015-08-31
@@ -186,13 +179,6 @@ Art. 23. 1. Sędzia Trybunału nie może należeć do partii politycznej, związ
 s. 4/21
 
 kraczającym pełnego wymiaru czasu pracy pracowników zatrudnionych w takim charakterze, o ile nie utrudnia to pełnienia obowiązków sędziego Trybunału.
-3. Sędzia Trybunału nie może podejmować innego zajęcia, o charakterze zarobkowym lub niezarobkowym, które
-utrudniałoby pełnienie przez niego obowiązków, uchybiałoby godności urzędu sędziego Trybunału lub mogłoby podważać
-zaufanie do jego bezstronności lub niezawisłości.
-4. O zamiarze podjęcia zatrudnienia lub innego zajęcia, o których mowa w ust. 2 i 3, a także o zamiarze ich kontynuowania przez sędziego obejmującego stanowisko w Trybunale, sędzia Trybunału zawiadamia Prezesa Trybunału. Prezes
-Trybunału pisemnie informuje o sprzeciwie, jeżeli uzna, że podjęcie albo kontynuowanie zatrudnienia lub innego zajęcia
-będzie utrudniało pełnienie obowiązków, uchybiało godności urzędu sędziego Trybunału lub podważało zaufanie do jego
-bezstronności lub niezawisłości.
 Art. 24. 1. Sędzia Trybunału nie może być pociągnięty do odpowiedzialności karnej ani pozbawiony wolności bez
 zgody Zgromadzenia Ogólnego.
 2. Do czasu wyrażenia zgody na pociągnięcie sędziego Trybunału do odpowiedzialności karnej lub zgody na pozbawienie wolności sędziego Trybunału, w stosunku do tego sędziego mogą być podejmowane tylko czynności niecierpiące
@@ -216,7 +202,6 @@ niż w terminie miesiąca od dnia złożenia wniosku.
 Ogólnemu.
 3. W naradzie oraz głosowaniu nie bierze udziału sędzia Trybunału, którego wniosek dotyczy.
 Art. 28. 1. Sędzia Trybunału odpowiada dyscyplinarnie przed Trybunałem za naruszenie przepisów prawa, uchybienie godności urzędu sędziego Trybunału lub inne nieetyczne zachowanie mogące podważać zaufanie do jego bezstronności lub niezawisłości.
-2. Sędzia Trybunału odpowiada dyscyplinarnie także za swoje postępowanie przed objęciem stanowiska, jeżeli uchybił obowiązkowi piastowanego urzędu państwowego lub okazał się niegodny urzędu sędziego Trybunału.
 3. Za wykroczenia sędzia Trybunału odpowiada tylko dyscyplinarnie.
 Art. 29. 1. W postępowaniu dyscyplinarnym orzeka:
 1)
@@ -229,7 +214,6 @@ w drugiej instancji – pięciu sędziów Trybunału.
 
 2. Sędziów Trybunału do składów orzekających i rzecznika dyscyplinarnego ustala w drodze losowania Prezes Trybunału. W losowaniu składu drugiej instancji nie uczestniczą sędziowie Trybunału, którzy orzekali w sprawie w pierwszej
 instancji.
-Art. 30. Od orzeczenia dyscyplinarnego wydanego w drugiej instancji skarga kasacyjna nie przysługuje.
 2015-08-31
 
 ©Kancelaria Sejmu
@@ -367,12 +351,8 @@ Postępowanie przed Trybunałem – zasady ogólne
 Art. 44. 1. Trybunał orzeka:
 1)
 
-w pełnym składzie w sprawach:
-a)
+w pełnym składzie, chyba że ustawa stanowi inaczej;
 
-3)
-
-zgodności ustaw przed ich podpisaniem i umów międzynarodowych przed ich ratyfikacją z Konstytucją,
 
 Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 504, 1031 i 1081.
 2015-08-31
@@ -381,55 +361,28 @@ Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014
 
 s. 7/21
 
-b) stwierdzenia przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenia
-Marszałkowi Sejmu tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej,
-c)
-
-zgodności z Konstytucją celów lub działalności partii politycznych,
-
-d) sporów kompetencyjnych między centralnymi konstytucyjnymi organami państwa,
-
 2)
 
-e)
-
-w których skład orzekający Trybunału zamierza odstąpić od poglądu prawnego wyrażonego w orzeczeniu wydanym w pełnym składzie,
-
-f)
-
-o szczególnej zawiłości lub doniosłości;
-
-w składzie pięciu sędziów Trybunału w sprawach zgodności:
-a)
-
-ustaw i umów międzynarodowych z Konstytucją,
-
-b) ustaw z umowami międzynarodowymi, których ratyfikacja wymagała uprzedniej zgody wyrażonej w ustawie;
+w składzie 7 sędziów Trybunału w sprawach zgodności
+ustaw z umowami międzynarodowymi, których ratyfikacja wymagała uprzedniej zgody wyrażonej w ustawie.
 3)
 
-w składzie trzech sędziów Trybunału w sprawach:
+w składzie 3 sędziów Trybunału w sprawach:
 a)
-
-zgodności przepisów prawa wydawanych przez centralne organy państwowe z Konstytucją, ratyfikowanymi
-umowami międzynarodowymi i ustawami,
-
-b) zgodności innych aktów normatywnych z Konstytucją, ratyfikowanymi umowami międzynarodowymi lub ustawami,
-c)
 
 nadania dalszego biegu lub odmowy nadania dalszego biegu skardze konstytucyjnej oraz wnioskowi podmiotu,
 o którym mowa w art. 191 ust. 1 pkt 3–5 Konstytucji,
 
-d) wyłączenia sędziego.
-2. O uznaniu sprawy za szczególnie zawiłą albo o szczególnej doniosłości rozstrzyga Prezes Trybunału z własnej inicjatywy lub na wniosek składu orzekającego, przy czym do spraw o szczególnej doniosłości należą zwłaszcza takie,
-w których rozstrzygnięcie może wiązać się z nakładami finansowymi nieprzewidzianymi w ustawie budżetowej.
-3. Orzekanie w pełnym składzie wymaga udziału co najmniej dziewięciu sędziów Trybunału.
+b) wyłączenia sędziego.
+2. Jeśli sprawa, o której stanowi ust. 1 pkt 2 i 3 jest szczególnie zawiła lub o
+szczególnej doniosłości, możliwe jest przekazanie jej do rozstrzygnięcia w pełnym
+składzie. O przekazaniu rozstrzyga Prezes Trybunału, także na wniosek składu
+orzekającego.
+3. Orzekanie w pełnym składzie wymaga udziału co najmniej 13 sędziów Trybunału.
 4. Rozprawie i posiedzeniu w pełnym składzie przewodniczy Prezes lub Wiceprezes Trybunału, a jeżeli istnieją przesłanki wyłączenia ich z udziału w orzekaniu lub inne ważne przyczyny – najstarszy wiekiem sędzia Trybunału.
 Art. 45. 1. Sędziów do składu orzekającego Trybunału, w tym przewodniczącego składu i sędziego sprawozdawcę,
 wyznacza Prezes Trybunału zgodnie z alfabetyczną listą sędziów, uwzględniając przy tym rodzaje, liczbę oraz kolejność
 wpływu spraw do Trybunału.
-2. Prezes Trybunału w szczególnie uzasadnionych przypadkach, zwłaszcza ze względu na przedmiot rozpoznawanej
-sprawy lub możliwość dochowania terminu przeprowadzenia pierwszej narady, określanego w myśl ust. 3 albo art. 86
-pkt 1, może wyznaczyć sędziego sprawozdawcę, odstępując od kryteriów wymienionych w ust. 1.
 3. Prezes Trybunału może wyznaczyć termin pierwszej narady składu orzekającego.
 Art. 46. 1. Sędzia Trybunału jest wyłączony z udziału w rozpoznawaniu sprawy, jeżeli:
 1)
@@ -738,9 +691,6 @@ Art. 69. W sprawach wszczętych na podstawie wniosku grupy posłów lub senator�
 ust. 1 pkt 1 Konstytucji, zakończenie kadencji Sejmu i Senatu nie wstrzymuje postępowania w Trybunale.
 Art. 70. 1. Z dniem zakończenia kadencji Sejmu i Senatu postępowanie w Trybunale w sprawach, o których mowa
 w art. 69, ulega zawieszeniu na 6 miesięcy.
-2. Jeżeli przed zakończeniem kadencji Sejmu i Senatu Trybunał zawiadomił wnioskodawców o terminie rozprawy
-przypadającym po jej zakończeniu lub, że rozpoznanie wniosku nastąpi na posiedzeniu niejawnym, postępowanie w takich
-sprawach nie ulega zawieszeniu oraz może toczyć się bez udziału wnioskodawcy.
 3. Prezes Trybunału, w terminie 30 dni od dnia zakończenia kadencji Sejmu i Senatu, przekazuje odpowiednio Marszałkowi Sejmu i Marszałkowi Senatu informację o sprawach, o których mowa w art. 69, w odniesieniu do których Trybunał postanowił o zawieszeniu postępowania.
 Art. 71. 1. Trybunał postanawia o podjęciu zawieszonego postępowania, jeżeli w terminie, o którym mowa w art. 70
 ust. 1, wniosek grupy posłów lub senatorów uzyska poparcie odpowiednio 50 posłów lub 30 senatorów kolejnej kadencji
@@ -823,11 +773,11 @@ s. 13/21
 
 Rozprawy i posiedzenia
 
-jący.
+Art. 80. Wniosek, pytanie prawne lub skargę Prezes Trybunału kieruje do rozpoznania przez właściwy skład orzekający.
 
-Art. 80. Wniosek, pytanie prawne lub skargę Prezes Trybunału kieruje do rozpoznania przez właściwy skład orzekaArt. 81. 1. Trybunał rozpoznaje wniosek, pytanie prawne lub skargę na rozprawie albo na posiedzeniu niejawnym.
+Art. 81. 1. Trybunał rozpoznaje wniosek, pytanie prawne lub skargę na rozprawie albo na posiedzeniu niejawnym.
 
-2. O rozpoznaniu wniosku, pytania prawnego lub skargi na rozprawie rozstrzyga skład orzekający z własnej inicjatywy albo po rozpatrzeniu wniosku w tej sprawie wnioskodawcy, sądu pytającego lub skarżącego.
+2. Na wniosek uczestnika postępowania Trybunał rozpoznaje sprawę na rozprawie.
 3. Prezes Trybunału może zwrócić się do przewodniczącego składu orzekającego o rozpoznanie wniosku, pytania
 prawnego lub skargi na rozprawie, jeżeli przemawia za tym ważny interes publiczny.
 Art. 82. 1. Prezes Trybunału zawiadamia uczestników postępowania o przekazaniu wniosku, pytania prawnego lub
@@ -839,7 +789,6 @@ w art. 44 ust. 1 pkt 1 lit. a. Rzecznik Praw Obywatelskich, w terminie 30 dni od
 udział w postępowaniu, a w razie zgłoszenia udziału – w terminie 30 dni przedstawia pisemne stanowisko w sprawie.
 4. Do Rzecznika Praw Dziecka, w postępowaniu wszczętym na wniosek Rzecznika Praw Obywatelskich oraz
 w postępowaniu w sprawie skargi, dotyczących praw dziecka, przepisy ust. 1 i 3 stosuje się odpowiednio.
-5. W uzasadnionych przypadkach Prezes Trybunału może wyznaczyć inny termin przedstawienia stanowiska.
 6. Trybunał może zwracać się do innych organów lub podmiotów o zajęcie stanowiska w sprawie, w wyznaczonym
 terminie.
 Art. 83. 1. Jeżeli w co najmniej dwóch wnioskach, pytaniach prawnych lub skargach jednakowo określono przedmiot
@@ -926,7 +875,7 @@ oznaczenie sprawy ze wzmianką co do jej jawności;
 
 transkrypcję przebiegu rozprawy, sporządzoną na podstawie rejestracji utrwalonej na nośniku elektronicznym.
 2. Protokół podpisują przewodniczący składu orzekającego i protokolant.
-Art. 93. 1. Trybunał może rozpoznać wniosek, pytanie prawne lub skargę na posiedzeniu niejawnym, jeżeli:
+Art. 93. 1. Z zastrzeżeniem art. 81 ust. 2 Trybunał może rozpoznać wniosek, pytanie prawne lub skargę na posiedzeniu niejawnym, jeżeli:
 
 1)
 
@@ -962,7 +911,7 @@ Art. 97. 1. Postanowienia Trybunału kończące postępowanie wydawane są po za
 2. Postanowienia Trybunału niekończące postępowania w sprawie mogą być uchylane lub zmieniane wskutek zmiany
 okoliczności.
 Art. 98. Trybunał wydaje orzeczenie po niejawnej naradzie sędziów składu orzekającego, którą kieruje przewodniczący składu.
-Art. 99. 1 Orzeczenie Trybunału zapada większością głosów.
+Art. 99. 1 Orzeczenia Trybunału wydawane w pełnym składzie zapadają większością 2/3 głosów.
 2. Sędzia składu orzekającego, który nie zgadza się z orzeczeniem Trybunału, może, podpisując orzeczenie, zgłosić
 zdanie odrębne. Zdanie odrębne może dotyczyć także samego uzasadnienia.
 Art. 100. 1. Orzeczenie Trybunału zawiera:
@@ -1108,8 +1057,6 @@ politycznej, w zakresie celów partii i zasad działania partii określonych w s
 i w trybie przewidzianych dla pytania prawnego.
 Art. 112. 1. Osoby upoważnione do reprezentowania partii politycznej Trybunał ustala na podstawie statutu partii lub
 ustawy.
-2. W przypadku gdy nie można ustalić, kto jest osobą upoważnioną do reprezentowania partii, lub gdy nie można
-nawiązać z nią kontaktu, Trybunał uznaje za upoważnioną osobę faktycznie kierującą partią.
 Rozdział 9
 Postępowanie w sprawie rozstrzygnięcia sporu kompetencyjnego
 Art. 113. Trybunał rozstrzyga spory kompetencyjne, w przypadku gdy:
@@ -1240,18 +1187,6 @@ w przepisach odrębnych, może:
 1)
 
 ubiegać się o wpis na listę adwokatów lub radców prawnych;
-
-2)
-
-ubiegać się o powołanie na stanowisko asesora komorniczego;
-
-3)
-
-ubiegać się o zatrudnienie na stanowisku radcy Prokuratorii Generalnej Skarbu Państwa;
-
-4)
-
-ubiegać się o przystąpienie do egzaminu adwokackiego, radcowskiego lub notarialnego.
 
 2. Osoba zatrudniona na stanowisku, o którym mowa w art. 124 ust. 1, po przepracowaniu 5 lat na tym stanowisku
 może przystąpić do egzaminu sędziowskiego.
@@ -1402,8 +1337,6 @@ Art. 135. 1. Rada Ministrów działa jako uczestnik, o którym mowa w art. 56 pk
 działać jako uczestnik, o którym mowa w art. 56 pkt 6, jeżeli zgłosi swój udział w postępowaniu.
 Art. 136. Przepis art. 18 pkt 2 stosuje się do sędziów Trybunału wybieranych na to stanowisko po dniu wejścia
 w życie ustawy.
-Art. 137. W przypadku sędziów Trybunału, których kadencja upływa w roku 2015, termin na złożenie wniosku,
-o którym mowa w art. 19 ust. 2, wynosi 30 dni od dnia wejścia w życie ustawy.
 Rozdział 14
 Przepisy końcowe
 Art. 138. Traci moc ustawa z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643,
